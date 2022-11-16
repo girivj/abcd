@@ -1,0 +1,601 @@
+Magnetostatics deals with	||||	  magnetic field from dc currents.	#
+
+Magnetostatics deals with	||||	  magnetic field from dc currents.	#
+
+The magnetic field intensity in SI system is	||||	    certain amperes per metre	#
+
+Magnetic field intensity is proportional to	||||	   inverse of square of distance	#
+
+H due to an infinitely thin current element is proportional to	||||	 Length of current element	#
+
+H due to an infinitely thin current element is proportional to	||||	 the current itself.	#
+
+H due to an infinitely thin current element is in the direction of	||||	  aФ of cylindrical coordinate system	#
+
+H due to an infinitely long conductor is	||||	 inversely proportional to the radial distance	#
+
+H due to an infinitely long conductor is	||||	   proportional to current	#
+
+Ampere’s circuital law is applicable for	||||	 Any region.	#
+
+Magnetic flux density outside a coaxial cable is	||||	 equal to zero.	#
+
+Magnetic field intensity inside inner conductor of a coaxial cable	||||	d  is inversely proportional to square of radius	#
+
+H  in the space between inner and outer conductor of a coaxial cable is	||||	 is proportional to inverse radius	#
+
+Curl of magnetic field intensity is equal to	||||	    The surface current density	#
+
+An irrotational H means	||||	 there is no curl	#
+
+Magnetic field intensity outside a coaxial cable	||||	equal to zero.	#
+
+Magnetic flux density inside inner conductor of a coaxial cable	||||	   is inversely proportional to square of radius	#
+
+B  in the space between inner and outer conductor of a coaxial cable is	||||	 is proportional to inverse radius	#
+
+Stokes theorem relates	||||	   line integral to surface integral of an open  surface	#
+
+Curl H  = J is	||||	    Point form of Ampere’s circuital law.	#
+
+B in SI system is measured in	||||	 Weber per square metre.	#
+
+Lorentz force equation is	||||	 Q(E +v x B)	#
+
+Force on a differential current element is	||||	 dQ v x 	#
+
+Force on a straight conductor is	||||	 I LxB	#
+
+Force on straight conductor is proportional to	||||	 the length of conductor	#
+
+Torque on a rectangular loop is	||||	 dependent on area and current	#
+
+If m is the moment B is the flux density and I is the current Torque on a rectangular loop is	||||	 mx	#
+
+Magnetic moment is proportional to	||||	 The current	#
+
+When the current is doubled the magnetic moment of a rectagular coil	||||	 gets doubled.	#
+
+For a rectangular coil of 5 turns ,0 .1 sq metre and 0.1 amp the magnetic moment is	||||	0.05 Ampere square metre	#
+
+Torque in SI system is measured in	||||	Nm	#
+
+Magnetic moment in SI system is measured in	||||	 Ampere square metre	#
+
+Solenoid is	||||	 an effective way of producing magnetic field	#
+
+For a long solenoid the flux density at the ends is	||||	 1/2 of value at centre.	#
+
+If Ө is angle between solenoid axis and flux density, torque on a solenoid  in a uniform magnetic field is proprtional to	||||	 sinӨ	#
+
+Inductance is measured in	||||	 Henries	#
+
+Inductance of a long solenoid is proportional to	||||	 the square of turns.	#
+
+When the turns are doubled the inductance of a solenoid 	||||	 quadruples	#
+
+Maxwell's equation derived from ampere's circuital law is	||||	Curl H =J	#
+
+The magnetic field intensity at the centre of current carrying loop is	||||	 proportional to I/R where I is current  and R radius	#
+
+.If I/R is doubled H at the centre of a circuar loop	||||	 gets double	#
+
+Magnetic Flux density is measured in	||||	 Tesla.	#
+
+Magnetic flux is measured in	||||	 Weers.	#
+
+If B is flux density, L is  length and v is velocity Current moment is	||||	 IL	#
+
+Magnetic Flux density is	||||	 Force per unit current moment	#
+
+Force between two current carrying conductors is proportional to	||||	 the individual currents.	#
+
+Ampere's circuital law is	||||	   ∫ H.dL = I	#
+
+Gauss's law for magnetic fields is	||||	  Div B = 0	#
+
+Magnetic fields are always	||||	c solenoidal	#
+
+Tesla is the unit of	||||	 Magnetic Flux density	#
+
+Henry is the unit of	||||	 mutual inductance	#
+
+Magnetic flux intensity is proportional to	||||	a inverse of square of distance	#
+
+Mutual Inductance is proportional to	||||	the individual turns of the coils	#
+
+Div B=0 is called	||||	Gauss’s law for magnetic fields.	#
+
+∫B.dS =0 is	||||	 Gauss’s law for magnetic fields.	#
+
+∫H.dL=I is	||||	 Ampere’s circuital law.	#
+
+Ampere/ metre is the unit of	||||	 Magnetic field intensity	#
+
+If I/R is halved H at the centre of a circuar loop	||||	       gets halved	#
+
+Weber is the unit of	||||	 Magnetic flux.	#
+
+Point form of Ampere’s circuital law is	||||	Curl H  = J	#
+
+Self Inductance is proportional to	||||	 the square of  turns	#
+
+Which of the following regarding cylindrical coordinate system is true?	||||	There are cylinder and two planes	#
+
+What is the reduction factor that is related to the cross product?	||||	sinӨ	#
+
+The Coulomb force is proportional to	||||	1/ r2	#
+
+Which of the following is true regarding electrical field intensity.	||||	a and c.	#
+
+E due to uniform infinite line charge is proportional to	||||	the line charge density	#
+
+The concept of potential gradient	||||	gives the rate of increase of potential with respect to distance.	#
+
+Gradient of potential is notated as follows	||||	Del   V	#
+
+Potential due to a dipole varies as	||||	Qd	#
+
+Which of the following is true?	||||	E = - Del V	#
+
+The field in which closed loop integration of E.dL is equal to zero is called	||||	conservative	#
+
+Divergence theorem equates	||||	surface integral and a volume integral	#
+
+Maxwell's first equation is	||||	 b Div  D  = ρv	#
+
+Maxwell's first law is also called	||||	 Gauss’s point form of law.	#
+
+The Electrical field intensity due to an infinite sheet charge	||||	 is independent of any distance parameters	#
+
+The electrical field intensity between planes that are defined by ρs and - ρs is	||||	 ρs  /2ξ0	#
+
+The flux due to a point charge through a sphere of 5 cm radius is 10 n C. The flux passing through a sphere of 10 cm radius is	||||	 10 nC	#
+
+The flux density due to a line charge	||||	 varies as inverse of cylindrical radius.	#
+
+E in SI units is defined in terms of	||||	1C +ve charge.	#
+
+E is	||||	a force per 1C	#
+
+A force of 4ΠЄ0 N is experienced between two equal charges in free space separated by 1m, having a magnitude of	||||	1C	#
+
+The unit of electrical flux is	||||	Coulomb	#
+
+The unit of surface charge density is	||||	Coulomb per square metre.	#
+
+Divergence	||||	involves concept of sourcing and sinking	#
+
+Gradient	||||	is a rate of increase of a scalar with respect to distance	#
+
+Divergence theorem	||||	equates surface integral to another surface integral.	#
+
+A surface charge density is defined by 7/22 pC per sq metre. The charge over the sphere of 1m radius is	||||	4 pC	#
+
+A uniform line charge density is defined by 2 nC per metre. The charge over a length of 10 m is	||||	20 nC	#
+
+The electrical flux density at a point is Є0 pC per square metre. E is equal to	||||	 1 pV/m	#
+
+E on the axis of a circular ring of certain C/m density	||||	 will have only axial component	#
+
+The ay vector is	||||	 in the direction of increasing y.	#
+
+The ax vector is	||||	 in the direction of increasing x	#
+
+The az vector is in the direction of	||||	 increasing z.	#
+
++ax vector	||||	 has a fixed direction	#
+
+Div D =0 says	||||	 the volume charge  density is equal to zero.	#
+
+Gauss's law	||||	 is applicable for only flux densities	#
+
+The potential at a point which is 50 cm away from a point charge of 4ΠЄ0 Coulombs is	||||	 2 V	#
+
+The field intensity at a point which is 1m away from a point charge of 4ΠЄ0 Coulombs is	||||	 1 V/m	#
+
+The flux density at a point which is 1m away from a point charge of 8ΠЄ0 C  is	||||	2 ξ0 Coulombs per square metre.	#
+
+The flux over an area of 2 square metre with a D of 0.5 Coulomb per square metre is	||||	 1C	#
+
+. If E is equal to 1 microvolt per metre, the PD is over 10 m is	||||	 10 micro volts	#
+
+In free space, what of the following is true?	||||	 D and E are in the same direction	#
+
+When the distance is increased by two times the potential due to a dipole	||||	 decreases by 4 times	#
+
+When the distance is increased by two times the potential due to a dipole	||||	 decreases by 4 times	#
+
+A dipole field can be best described in terms of	||||	 Spherical coordinate system	#
+
+Which of the following regarding the relation between E and V is true?	||||	 E is directed along the normal to the equipotential surface and the normal is in the decreasing    potential direction.	#
+
+In a coaxial cable if the inner surface density is -9.55 micro coulombs per sq metre, the inner and outer radii are respectively 1mm and 4mm the outer surface density is	||||	   +2.39 mic Coulombs per sq metre.	#
+
+In a coaxial cable if the inner surface density is -9.55 micro coulombs per sq metre, the inner and outer radii are respectively 1mm and 4mm the outer surface density is	||||	   +2.39 mic Coulombs per sq metre.	#
+
+Gauss's law	||||	 deals with only closed surfaces.	#
+
+The flux density inside a metallic surface charge of Q C	||||	 is  zero.	#
+
+The field intensity inside a metallic surface charge of Q C	||||	 is  zero.	#
+
+The electrical flux density outside the outer conductor is of a metallic shell	||||	 equal to zero.	#
+
+The field intensity outside the outer conductor of a metallic shell	||||	 equal to zero.	#
+
+Volts per metre is the unit of	||||	Electrical field intensity	#
+
+Which Of the following is not a vector?	||||	  work	#
+
+aӨ  is in the direction of	||||	increasing Ө	#
+
+aΦ  is in the direction of	||||	c  increasing Φ	#
+
+Which of the following regarding spherical coordinate system is true.	||||	      There are sphere and one plane and one cone	#
+
+Which of the following regarding Cartesian coordinate system is true?	||||	        There are 3 plane surfaces.	#
+
+One of the surfaces is not in spherical system	||||	Cylinder	#
+
+One of the surfaces is not in cylindrical  system	||||	   Cone	#
+
+Current density is at a point is defined as one of the following.	||||	 Current per unit area.	#
+
+One of the following equations best describes the steady current situation.	||||	 Ñ . J=0	#
+
+Current over a finite area ,  mathematically is best described as follows.	||||	 dQ/dt	#
+
+The continuity equation is	||||	 Ñ . J = -∂ρ/∂t	#
+   
+The  normal component magnetic boundary condition for any two media is	||||	       Bn 1 = Bn 2	#
+
+The tangential component  magnetic boundary condition for any two media is	||||	  Ht1  = Ht2	#
+
+Laplace equation	||||	 Equates a 3 D second order partial derivative to zero	#
+ 
+The capacitance of a parallel plate  varies as	||||	  The area of the plate.	#
+
+As the area is doubled the capacitance of a parallel plate capacitance	||||	       gets doubled	#
+
+The capacitance of a spherical conductor	||||	      is inversely proportional to distance.	#
+
+If the relative permittivity is εr  and susceptibility is χe ,  the  relation between them is	||||	  εr = χe   +1	#
+
+The relation between polarization and electrical field intensity is	||||	P= χe ε0 E	#
+   
+The capacitance of a parallel plate capacitor having a dielectric whose relative permitivitty is 6 , the plate area is 10 in2 and separation is 0.01 in2  is	||||	     1. 349 nF	#
+
+  If  V is the dc voltage across the plates and C is the capacitance , the energy stored  is	||||	   1/2 CV2	#
+  
+ The capacitance of  an isolated spherical sphere of radius 1 cm is	||||	       0.556 pF	#
+ 
+ If the normal electrical flux density is 1 microcoulomb per square metre  the magnitude of  surface charge  density on capacitor plates is	||||	 1 microcoulomb per sq metre.	#
+ 
+The boundary condition for a conductor –dielectric  boundary is	||||	DN=ρs	#
+
+Dipole moment is defined as	||||	the product of charge and distance between them	#
+
+Polarisation is defined as	||||	  Dipole moment per unit volume.	#
+
+ If the dipole moment is 10-29  C m  the number of dipoles per unit volume is	||||	   5.89 x10 20 m-3	#
+ 
+ The relation between polarization and electrical flux density is	||||	 D= ε0E+P	#
+
+The relation between polarization and bound charges is	||||	                  Div P =   ρ b	#
+
+   Inductance is defined as	||||	    Flux linkage per one ampere	#
+   
+  If  there are N number of turns and flux linking with each turn , the total flux Linkage is	||||	   N x flux  linking with one turn	#
+  
+The internal inductance of a long , straight conductor of circular cross section is	||||	 μ/8Π	#
+
+Inductance is measured in	||||	      Henry 	#
+
+Internal inductance of conductors is generally given in	||||	   Henry per metre.	#
+
+Mutual inductance is measured in	||||	       Henry	#
+
+  The self inductance of a coil of  n turns and flux of Φ webers and  I amp current is	||||	nΦ/I	#
+  
+ The mutual inductance of coil 2 due to coil 1 is proportional to	||||	 turns of both coils.	#
+ 
+The self inductance of a coil is proportional to	||||	 the square of turns	#
+
+ The energy density in a magnetic field is	||||	  ½    B.H	#
+ 
+Energy density is measured in	||||	 J/cubic metre`	#
+
+Energy density in an electric field is given by	||||	  ½    ε E2	#
+
+  If electrical field intensity is  2 V/m  the energy density is	||||	       (4/3) ε J/cu metre	#
+  
+  If the  magnetic field intensity is 2 A/m the energy density is	||||	     4/3  μ   J/cu metre	#
+  
+If number of turns is doubled the self inductance of a coil	||||	 gets quadrupled	#
+
+ If the length of coil is doubled the inductance	||||	  gets halved	#
+ 
+If the area of a coil is doubled the inductance	||||	  gets doubled	#
+
+A slab of dielectric material has a  relative dielectric constant  3.8 and contains a  uniform D of 8nC /m2  the magnetic field intensity is	||||	 238 V/m	#
+
+ The boundary condition for electric field intensity at the interface between  two dielectric media is	||||	  Etan1 = Etan2	#
+ 
+The normal boundary condition  for electric field intensity at the interface between  two dielectric media is	||||	  .   Dnor1 = Dnor2 + ρs	#
+
+The relation between D and E in a dielectric  is	||||	   D = εE	#
+
+Consider an electricl flux density, which makes an angle of 60 deg in medium1 with  respect to  the normal of the boundary between two media. If D1 = 70 nC/m2,  the   normal component  of D1 is	||||	 35 nC/m2	#
+
+Consider boundary between two dielectric media. If D tan1 =70 nC/m2  and relative   permittivity  of med1 is ε1  and med 2 is  ε2  D tan2 is	||||	 (ε2/ ε1) D tan1	#
+
+Consider the boundary between two media. If Dn1= 70nC/m2 and Dn2  is 65 nC/m2  the charge density at the surface is	||||	  5 nC/m2	#
+
+The capacitance of a single spherical charge is proportional to	||||	  the radius	#
+
+The capacitance of a sphere whose radius is 1m is	||||	 4Пε	#
+
+A slab of dielectric material has a  relative dielectric constant  1.9 and contains a  uniform D of 8nC /m2  the magnetic field intensity is	||||	 119 V/m	#
+
+Consider a coil , whose inductance is 1mH. If the  length is doubled , the new inductance	||||	  ½  mH	#
+
+Consider a coil whose inductance is 1mH . If the number of turns is doubled, the New inductance is	||||	  4mH	#
+
+        If  I is the dc current passing through a coil and  L is the inductance , the energy stored  is	||||	   1/2 LI2	#
+        
+If the normal electrical flux density is 2 microcoulomb per square metre the  magnitude of  surface charge  on capacitor plates  of 1 sq metre is	||||	2 microcoulomb	#
+
+If the  magnetic field intensity is 2 A/m the energy over a volume of 1 cubic Metre is	||||	  2 μ	#
+
+If  E is doubled the enery density	||||	  gets quadrupled	#
+
+ If H is doubled the energy density	||||	 gets quadrupled	#
+ 
+The resultant capacitance of two capacitances C1 and C2 connected in series is	||||	 (C1 C2)/(C1+C2)	#
+
+The resultant capacitance of two capacitances C1 and C2 connected in parallel is	||||	  C1+C2	#
+
+The resultant capacitance of two capacitors 2 and 10 micro Farads connected      in parallel	||||	  12 microfarads	#
+
+The current continuity equation Div J=0 is applicable for	||||	  only dc	#
+
+Lenz’law is	||||	 Induced voltage is such that it acts to produce an opposing flux.	#
+
+ Faraday’s law is	||||	 the induced emf is equal to rate of decrease of magnetic flux.	#
+ 
+ Electromotive force is quantitatively	||||	 Voltage	#
+
+EMF is about a	||||	 closed line	#
+
+Maxwell’s equation as obtained from Faraday’s law is	||||	Curl E =-∂B/∂t	#
+
+For electrostatics one of the following is applicable.	||||	 curl E=0.	#
+
+The current that flows inside a capacitor dielectric is called	||||	 displacement current	#
+
+Displacement current density is equal to	||||	 the rate of increase of electric flux density wrt time.	#
+
+ In a given field system the rate of increase of electric flux density is equal to 2 mic amp per sq met The displacement current density is	||||	  2 microamp per sq met	#
+ 
+The induced emf is equal to rate of decrease of magnetic flux is called	||||	 faraday’s law.	#
+
+Induced voltage is such that it acts to produce an opposing flux is called	||||	 Lenz’s law	#
+
+VxB is called	||||	 motional electrical field intensity	#
+
+∂D/∂t is called	||||	 displacement current  density	#
+
+EMF  is given by	||||	 closed line integral of E.dL	#
+
+Transformer emf is related to emf made due to	||||	 A time – changing flux linking a stationary closed path	#
+
+Maxwell’s equation as obtained from Faraday,s law is	||||	  curl E = -∂B/∂t	#
+ For electrostatics one of the following is applicable.	||||	 curl E=0	#
+ 
+Maxwell’s equation in modified form as derived from ampere’s law is	||||	 Curl H = ∂D /∂t +J	#
+
+ For time – varying fields , What of the following is true?	||||	  Tangential electrical field intensity equal to 0 on a infinitely conducting conductor	#
+ 
+Conduction current density is proportional to	||||	 Electrical field intensity	#
+
+ For time-varying fields one of the following boundary conditions is applicable if there are two dielectric media	||||	  E tan1 = E tan 2.	#
+ 
+For time-varying fields one of the following boundary conditions is applicable if there are dielectric and conductors	||||	  Etan1=E tan2 =0	#
+
+Maxwell ‘s differential form equation in free space is	||||	  div B =0	#
+
+For time – harmonic fields  Maxwell’s equation as derived from Faraday’s law, in integral form is	||||	   ∫ closed   E. dL= -jωμ  ∫ s  H. dS	#
+
+For time – harmonic fields  Maxwell’s equation as derived from Ampere’s law, in integral form is	||||	  ∫closed   H. dL= (σ+jωε) ∫s  E. dS	#
+
+For time – harmonic fields  Maxwell’s equation as derived from Gauss’s law, is	||||	  ∫closed    dS= ∫v  ρv dv	#
+
+For time – harmonic fields  Maxwell’s equation as derived from Gauss’s Law  is	||||	  ∫ closed   B.dS = 0	#
+
+For time – harmonic fields  Maxwell’s equation as derived from Ampere’s law, in differential and phasor form  is	||||	  curl H = (σ+jωε)E	#
+
+For time – harmonic fields  Maxwell’s equation as derived from Faraday’s law, in differential and phasor form  is	||||	  Curl E = - jωμ H	#
+
+For time – harmonic fields  Maxwell’s equation as derived from Gauss’s law, in differential and phasor form  is	||||	  Div B=0	#
+
+ If E is doubled the conduction current density is	||||	 doubled	#
+ 
+If the conductivity is doubled , the conduction current density is	||||	 doubled	#
+
+Unit of emf in SI units is	||||	 volt	#
+
+Instantaneous  Poynting vector is	||||	 ExH	#
+
+Time average Poynting vector is	||||	  ½ Re ExH*	#
+
+The displacement current that flows across the dielectric between plates is	||||	  CdV/dt	#
+
+ Displacement current is measured in	||||	 ampere	#
+ 
+In free space one of the following currents exists.	||||	 displacement current	#
+
+In copper one of the following currents exists	||||	 conduction current	#
+
+If conductivity is doubled , the conduction current density	||||	  is doubled	#
+
+ If conductivity of  a medium is 106 S/m   and the field intensity is 1 microV/m, the  coduction current density is	||||	1   ampere per sq met	#
+ 
+ Conductivity of a medium is measured in	||||	  Siemens /metre.	#
+ 
+If frequency is doubled the displacement current density is	||||	  doubled	#
+
+If  frequency is 1MHz, in free space the magnitude of  displacement current density for a  field intensity of 1 microvolt per metre	||||	  2П є	#
+
+If E is equal to  1microvolt per metre and  is equal to 1micro amp per metre at some particular time and if both are mutually perpendicular to each other the instantenous Poynting vector is	||||	 1microwatt per sq met	#
+
+The dimension of Poynting vector is	||||	 Power per unit area	#
+
+If in a medium the displacement current density is 1microamp per Sq metre  curl H is equal to	||||	 1 micro amp per sq met	#
+
+Generator emf is related to emf made due to	||||	 relative motion between a steady flux and a closed path	#
+
+Displacement current  density  is proportional to	||||	 the frequency	#
+
+If in a region the displacement current density is 1 microamp per sq met Over  5 sq met  the current is	||||	  5 microamp per sq met	#
+
+Power per unit area is the dimension of	||||	 Power density	#
+
+Power density is measured in SI units by	||||	  Watt per sq met	#
+
+If in a dielectric the tangential electrical field intensity is 1microvolt Per metre its value at a perfect conductor surface its value is	||||	 zero	#
+
+If  frequency is 2MHz, in free space the magnitude of  displacement current density for a  field intensity of 2 microvolt per metre	||||	  8П є	#
+
+Siemens /metre. is the unit of	||||	 conductivity	#
+
+div B =0 is	||||	 Maxwell equation as derived from Gauss law	#
+
+∫ closed   E. dL= -jωμ  ∫ s  H. dS is called	||||	  Maxwell’s equation as derived from Faraday’s law, in integral and phasor form For time – harmonic fields	#
+
+∫ closed   B.dS = 0 is called Maxwell’s	||||	equation as derived from Gauss’s law   for magnetic fields	#
+
+∫closed   D. dS= ∫v  ρv dv	||||	 equation as derived from Gauss’s Law for electric  fields	#
+
+∫closed   H. dL= (σ+jωε) ∫s  E. dS	||||	 equation as derived from ampere’s law   for magnetic fields	#
+
+In TEM mode	||||	 E and H are entirely transverse	#
+
+In a uniform plane wave,	||||	  along the plane both E and H are same at any point of time.	#
+
+E= sin (ωt –βx) represents	||||	 a uniform plane wave traveling in the +ve x direction	#
+
+E= sin (ωt +βx) represents	||||	 a uniform plane wave traveling  in the –ve x direction	#
+
+If E = cos (2xПx 106 t +βx)	||||	 The frequency is 106Hz and direction of propagation is -x	#
+
+ ω/β, where  ω stands for angular frequency and β stands for phase constant represents	||||	  linear velocity	#
+ 
+The free space intrinsic impedance is equal to	||||	 377 Ohms	#
+
+√(μ/є) has the dimension of	||||	  Impedance	#
+
+For paraffin if the relative permittivity is equal to 2.1, the phase velocity is equal to	||||	207 Mm s-1	#
+
+For paraffin if the relative permittivity is equal to 2.1, the index of refraction is equal to	||||	1.45	#
+
+For distilled water, conductivity is equal to 0 , relative permeability is 1 and relative permittivity is 81, the index of refraction is	||||	9	#
+
+E= 2 E 0 cos ωt sin βx, represents	||||	  a pure stationary wave.	#
+
+For a non ferrous media the index of refraction is approximately equal to	||||	square root of relative permittivity	#
+
+In general the index of refraction is equal to	||||	Ö(ermr)	#
+
+If s/we is equal to 105 the medium may be conveniently placed under	||||	good conductor	#
+
+If s/we is equal to 2.5 the medium may be conveniently placed under	||||	  quasiconductor	#
+
+Skin depth is also called as	||||	  1/e  depth	#
+
+If   s=58x106 Siemens and relative permeability is 1 and  frequency is 60 Hz the  skin depth is	||||	  0.0085 m	#
+
+If propagation constant is 0.13 Np/m+ j 0.1 rad/m, the attenuation constant is	||||	   0. 13 Np/m	#
+
+If the intrinsic impedance of medium 1 is 300 Ohms and medium2 is 200 Ohms the reflection coefficient is	||||	0.2	#
+
+The reflection coefficient is given by	||||	  (Z2 –Z1) /(Z1 +Z2)	#
+
+If ρv is the reflection coefficient and τv is transmission coefficient relation between them is	||||	   1+ρv =τv	#
+
+   Let the reflection coefficient be 1. The transmission coefficient is	||||	2	#
+   
+The condition for circular polarization is	||||	There must be two mutually perpendicular components of equal amplitudes.	#
+
+The phase difference between two components in circular polarization is	||||	 90 deg	#
+
+In circular polarization the components must orient in space at an angle of	||||	90 deg	#
+
+There will be linear polarization when	||||	there are two components with a phase difference of  0 deg.	#
+
+Elliptical polarization will be created  when	||||	     there are two mutually perpendicular components with any phase difference	#
+
+In linear polarisation	||||	  electrical vector is always directed to any particular direction	#
+
+Consider oblique incidence on a boundary with  parallel polarization. In this case	||||	 the electric field is parallel to the plane of incidence	#
+
+Consider oblique incidence on a boundary with   perpendicular polarization. In this case	||||	 the electric field is perpendicular to the plane of incidence	#
+
+Brewster angle is related to	||||	 parallel polarization	#
+
+Brewster angle is also called	||||	 polarizing angle	#
+
+A  parellal-polarised wave is incident from air onto distilled water of relative permittivity of 81, the Brewster angle is	||||	83.7	#
+
+Brewster angle for a parallel – polarized wave , which travels in air and then falls on to flint glass, whose relative permittivity is 10 is	||||	72.4 deg	#
+
+ In a uniform plane wave the smaller angle between E and H fields is	||||	90 deg	#
+ 
+In a uniform plane wave	||||	 The fields are constant at any particular time along the plane perpendicular to direction of propagation	#
+
+Let E= 5x 10 -6 sin (ωt +βx).In this	||||	   ω is angular frequency  and β is phase constant	#
+
+Let E=  cos (2xПx 106 t +0.1x), at t=1microsecond and x=10 cm , E is equal to	||||	  1V/m	#
+
+Let  E = 5x 10 -6  sin y sin (ωt +βx). This represents	||||	 a nonuniform plane wave traveling in the -ve x direction	#
+
+Let  E = 5x 10 -6  cos y sin (ωt +βz). This represents a wave traveling in	||||	 +x    direction	#
+
+A  parellal-polarised wave is incident from air onto paraffin of relative permittivity of 2, the Brewster angle is	||||	54.7	#
+
+Phase constant in SI system is defined as	||||	phase shift of a wave in radian for one metre	#
+
+Phase shift constant of EM waves in terms of wavelength is	||||	 2Π/ λ	#
+
+If the wavelength is 2 metres  the phase shift constant is	||||	  Π radians	#
+
+If the phase-shift constant is Π radians, the wavelength is	||||	  2 metres	#
+
+In SI system √(μ/є) is measured in	||||	 Ohms	#
+
+In SI system 1/√(μє) is measured in	||||	 m/s	#
+
+If the intrinsic impedance of medium 1 is 600 Ohms and medium2 is 400 Ohms the reflection coefficient is	||||	0.2	#
+
+For a uniform plane wave dot product of E and H is equal to	||||	0	#
+
+At 1 KHz, rural ground whose relative permittivity shall be taken as 14 and conductivity shall be taken as 10-2 Siemen may be considered as	||||	good conductor	#
+
+At 30 GHz, rural ground whose relative permittivity shall be taken as 14 and conductivity shall be taken as 10-2 Siemen may be considered as	||||	 good insulator	#
+
+At 10 MHz, rural ground whose relative permittivity shall be taken as 14 and Conductivity shall be taken as 10-2 Siemen may be considered as	||||	 Quasiconductor	#
+
+For a good conductor attenuation constant is	||||	 √ (ωμσ/2)	#
+
+For a good conductor phase constant is	||||	 √ (ωμσ/2)	#
+
+For a good conductor propagation costant  is	||||	(1+j )√ (ωμσ/2)	#
+
+At skin depth of a good conductor the value of electrical field  is	||||	 1/e x its value at the surface	#
+
+Which of the following represents a uniform plane wave?	||||	E0 e-αx e-jβx	#
+
+Consider  E=     E0 e-0.01x e-j 0.02x. The attenuation constant is	||||	0.01	#
+
+The  trignometrical form of  E=E0 e-0.01x e-j 0.02x is	||||	E=E0 e-0.01x cos ( ωt – 0.02 x)	#
+
